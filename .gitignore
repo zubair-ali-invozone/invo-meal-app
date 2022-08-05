@@ -8,3 +8,4 @@ invo-meal-frontend/package-lock.json
 invo-meal-apis/package-lock.json
 invo-meal-apis/.env
 invo-meal-apis/uploads/*
+invo-meal-frontend/public/vendors
