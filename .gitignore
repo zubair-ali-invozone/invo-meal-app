@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+invo-meal-frontend/.idea
+invo-meal-frontend/node_modules
+invo-meal-apis/.idea
+invo-meal-apis/node_modules
+invo-meal-frontend/package-lock.json
+invo-meal-apis/package-lock.json
+invo-meal-apis/.env
+invo-meal-apis/uploads/*
